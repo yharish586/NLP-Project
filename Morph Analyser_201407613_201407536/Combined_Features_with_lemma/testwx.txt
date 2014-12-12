@@ -1,0 +1,23 @@
+<Sentence id='3'>
+1	((	NP	
+1.1	yaha	DEM	<fs af='yaha,pn,any,sg,3,d,,' name='यह'  posn='10'>
+1.2	eSiyA	NNP	<fs af='eSiyA,n,m,sg,3,o,0,0' name='एशिया'  posn='20'>
+1.3	kI	PSP	<fs af='kA,psp,f,pl,,o,,' name='की'  posn='30'>
+	))
+2	((	NP	
+2.1	sabase	INTF	<fs af='sabase,avy,,,,,,' name='सबसे'  posn='40'>
+2.2	badZI	JJ	<fs af='badZA,adj,f,pl,,o,,' name='बड़ी'  posn='50'>
+2.3	masjixoM	NN	<fs af='masjixa,n,f,pl,3,o,0,0' name='मस्जिदों'  posn='60'>
+2.4	meM	PSP	<fs af='meM,psp,,,,,,' name='में'  posn='70'>
+2.5	se	PSP	<fs af='se,psp,,,,,,' name='से'  posn='80'>
+	))
+3	((	NP	
+3.1	eka	QC	<fs af='eka,num,any,any,,any,,' name='एक'  posn='90'>
+	))
+4	((	VGF	
+4.1	hE	VM	<fs af='hE,v,any,sg,3,,hE,hE' name='है'  posn='100'>
+	))
+5	((	BLK	
+5.1	.	SYM	<fs af='।,punc,,,,,,' name='।'  posn='110'>
+	))
+</Sentence>

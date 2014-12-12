@@ -1,0 +1,23 @@
+<Sentence id='3'>
+1	((	NP	<fs name='NP' drel='r6:NP2'>
+1.1	यह	DEM	<fs af='यह,pn,any,sg,3,d,,' posn='10' name='यह'>
+1.2	एशिया	NNP	<fs af='एशिया,n,m,sg,3,o,0,0' posn='20' name='एशिया'>
+1.3	की	PSP	<fs af='का,psp,f,pl,,o,,' posn='30' name='की'>
+	))
+2	((	NP	<fs name='NP2' drel='k7:VGF'>
+2.1	सबसे	INTF	<fs af='सबसे,avy,,,,,,' posn='40' name='सबसे'>
+2.2	बड़ी	JJ	<fs af='बड़ा,adj,f,pl,,o,,' posn='50' name='बड़ी'>
+2.3	मस्जिदों	NN	<fs af='मस्जिद,n,f,pl,3,o,0,0' posn='60' name='मस्जिदों'>
+2.4	में	PSP	<fs af='में,psp,,,,,,' posn='70' name='में'>
+2.5	से	PSP	<fs af='से,psp,,,,,,' posn='80' name='से'>
+	))
+3	((	NP	<fs name='NP3' drel='k1:VGF'>
+3.1	एक	QC	<fs af='एक,num,any,any,,any,,' posn='90' name='एक'>
+	))
+4	((	VGF	<fs name='VGF' voicetype='active' stype='declarative'>
+4.1	है	VM	<fs af='है,v,any,sg,3,,है,hE' posn='100' name='है'>
+	))
+5	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+5.1	।	SYM	<fs af='।,punc,,,,,,' posn='110' name='।'>
+	))
+</Sentence>
